@@ -27,10 +27,10 @@
     "GPL-2.0-or-later"
   ],
   "require": {
-    "typo3/cms-core": "^11.5 || ^12.4"
+    "typo3/cms-core": "^13"
   },
   "suggest": {
-    "typo3/cms-indexed-search": "^11.5 || ^12.4"
+    "typo3/cms-indexed-search": "^13"
   },
   "autoload": {
     "psr-4": {
